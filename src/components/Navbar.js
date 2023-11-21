@@ -17,7 +17,10 @@ export default function Navbar() {
           <li>
             <a href="#">Service</a>
           </li>
-          <Logo />
+
+          <div className="logo">
+            <Logo />
+          </div>
 
           <li>
             <a href="#">Resume </a>

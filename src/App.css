@@ -15,7 +15,7 @@ a:visited {
   background-color: black;
   border-radius: 60px;
   border: 1px solid #fff;
-  background: var(--gray-900, #171717);
+  background: #171717;
   backdrop-filter: blur(7.5px);
   display: flex;
   width: 1278px;
@@ -32,7 +32,7 @@ li {
   justify-content: center;
 }
 .home {
-  background: var(--orange-400, #fd853a);
+  background: #fd853a;
   border-radius: 70px;
   display: flex;
   padding: 20px 40px;
@@ -41,16 +41,8 @@ li {
   gap: 10px;
 }
 
-.woman {
-  margin: -5.3% 18%;
-  position: absolute;
-}
-.lolu {
-  font-size: 60px;
-  text-align: center;
-  font-weight: 600;
-  letter-spacing: -1.433px;
-}
-.main {
-  position: relative;
+.logo {
+  border-radius: 50%;
+  background-color: #fd853a;
+  padding: 8px 5px;
 }

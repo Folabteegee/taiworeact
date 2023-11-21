@@ -4,6 +4,9 @@
   margin: 56px 0 10px 0;
   position: relative;
 }
+.Vector1 {
+  position: absolute;
+}
 
 .hello {
   border: 1px solid #171717;
@@ -12,6 +15,39 @@
   border-radius: 35px;
   width: fit-content;
 }
+.lolu {
+  font-size: 60px;
+  text-align: center;
+  font-weight: 600;
+  letter-spacing: -1.433px;
+}
+.hero {
+  position: relative;
+}
+
+.woman {
+  margin: -5.3% 18%;
+  position: absolute;
+}
+
 .taye {
   color: #fd853a;
+}
+.heronote {
+  margin: 100px 71px;
+  position: absolute;
+  font-weight: 900;
+  font-size: 20px;
+}
+.heronote2 {
+  margin: 100px 1100px;
+
+  position: absolute;
+  font-weight: 900;
+  font-size: 47px;
+  text-align: center;
+}
+.experience {
+  font-size: 20px;
+  font-weight: 400;
 }
