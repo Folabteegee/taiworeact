@@ -1,6 +1,6 @@
 import React from "react";
 import Logo from "../icons/Logo";
-
+import "../styles/nav.css";
 export default function Navbar() {
   return (
     <nav className="nav">

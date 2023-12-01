@@ -1,5 +1,10 @@
+:root {
+  font-size: 62.5%;
+}
+
 body {
   font-family: "Montserrat", sans-serif;
+  font-size: 1.6rem;
 }
 
 a,
@@ -8,41 +13,4 @@ a:visited {
   text-decoration: none;
   color: inherit;
   cursor: pointer;
-}
-
-.nav__links {
-  color: white;
-  background-color: black;
-  border-radius: 60px;
-  border: 1px solid #fff;
-  background: #171717;
-  backdrop-filter: blur(7.5px);
-  display: flex;
-  width: 1278px;
-  height: 66px;
-  padding: 20px 40px;
-  justify-content: space-between;
-  align-items: center;
-}
-li {
-  list-style: none;
-}
-.nav {
-  display: flex;
-  justify-content: center;
-}
-.home {
-  background: #fd853a;
-  border-radius: 70px;
-  display: flex;
-  padding: 20px 40px;
-  justify-content: center;
-  align-items: center;
-  gap: 10px;
-}
-
-.logo {
-  border-radius: 50%;
-  background-color: #fd853a;
-  padding: 8px 5px;
 }
