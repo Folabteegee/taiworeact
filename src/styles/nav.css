@@ -1,0 +1,35 @@
+.nav__links {
+  color: white;
+  background-color: black;
+  border-radius: 60px;
+  border: 1px solid #fff;
+  background: #171717;
+  backdrop-filter: blur(7.5px);
+  display: flex;
+  width: 80vw;
+  margin-top: 20px;
+  padding: 20px 60px;
+  justify-content: space-between;
+  align-items: center;
+}
+li {
+  list-style: none;
+}
+.nav {
+  display: flex;
+  justify-content: center;
+}
+.home {
+  background: #fd853a;
+  border-radius: 70px;
+  display: flex;
+  padding: 20px 40px;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo {
+  border-radius: 50%;
+  background-color: #fd853a;
+  padding: 8px 5px;
+}
